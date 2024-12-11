@@ -2,7 +2,7 @@
 
 <h2>👨‍💻📈 Data Visualization Projects:</h2>
 <ul>
-  <li><b>Dashboard tiempo en sesiones de trabajo (Google Sheets / Looker Studio)</b></li>
+  <li><b><a href="https://github.com/usuario/tu-repositorio">Dashboard tiempo en sesiones de trabajo (Google Sheets / Looker Studio)</a></b></li>
 </ul>
 
 <h2>💡 Skills:</h2>
@@ -16,4 +16,5 @@
 
 <h2>🤳 Connect with me:</h2>
 <p><a href="https://www.linkedin.com/in/diego-juárezv">LinkedIn</a></p>
+
 
