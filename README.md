@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1>Hi, I'm Diego! <br/><a href="https://www.linkedin.com/in/diego-juárezv">Business Analyst</a></h1>
 
-<!--
-**Diego-Juv/Diego-Juv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻📈 Data Visualization Projects:</h2>
+<ul>
+  <li><b>Dashboard tiempo en sesiones de trabajo (Google Sheets / Looker Studio)</b></li>
+</ul>
 
-Here are some ideas to get you started:
+<h2>💡 Skills:</h2>
+<ul>
+  <li>➡️ Google Looker Studio</li>
+  <li>➡️ Jira Software</li>
+  <li>➡️ Microsoft Excel</li>
+  <li>➡️ Power Query</li>
+  <li>➡️ Google Workspace</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🤳 Connect with me:</h2>
+<p><a href="https://www.linkedin.com/in/diego-juárezv">LinkedIn</a></p>
+
