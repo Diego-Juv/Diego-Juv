@@ -2,6 +2,7 @@
 
 <h2>👨‍💻📈 Data Visualization Projects:</h2>
 <ul>
+  <li><b><a href="https://github.com/Diego-Juv/Training-Progress-Dashboard">Training Progress Dashboard (Google Sheets / Looker Studio)</a></b></li>
   <li><b><a href="https://github.com/Diego-Juv/time-management-dashboard">Dashboard tiempo en sesiones de trabajo (Google Sheets / Looker Studio)</a></b></li>
 </ul>
 
