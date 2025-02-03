@@ -8,7 +8,7 @@
 <h2>💡 Skills:</h2>
 <ul>
   <li>➡️ Google Looker Studio</li>
-  <li>➡️ Jira Software</li>
+  <li>➡️ Jira Software Adinistrator</li>
   <li>➡️ Microsoft Excel</li>
   <li>➡️ Power Query</li>
   <li>➡️ SQL</li>
