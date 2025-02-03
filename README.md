@@ -11,6 +11,7 @@
   <li>➡️ Jira Software</li>
   <li>➡️ Microsoft Excel</li>
   <li>➡️ Power Query</li>
+  <li>➡️ SQL</li>
   <li>➡️ Google Workspace</li>
 </ul>
 
