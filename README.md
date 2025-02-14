@@ -1,4 +1,4 @@
-<h1>Hi, I'm Diego! <br/><a href="https://www.linkedin.com/in/diego-juárezv">Business Analyst</a></h1>
+<h1>Hi, I'm Diego! <br/><a href="https://www.linkedin.com/in/diego-juárezv"
 
 <h2>👨‍💻📈 Data Visualization Projects:</h2>
 <ul>
