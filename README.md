@@ -1,5 +1,4 @@
-<h1>Hi, I'm Diego! <br/><a href="https://www.linkedin.com/in/diego-juárezv"
-
+href="https://www.linkedin.com/in/diego-juárezv" <h1>Hi, I'm Diego Juárez! <br/><a 
 <h2>👨‍💻📈 Data Visualization Projects:</h2>
 <ul>
   <li><b><a href="https://github.com/Diego-Juv/Training-Progress-Dashboard">Training Progress Dashboard (SQL / Looker Studio)</a></b></li>
